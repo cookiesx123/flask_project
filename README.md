@@ -1,8 +1,8 @@
 # Stronka - blog z kotkami
 ### Z użyciem Flaska - w ramach projektu na przemiot "Python w praktyce - web & deep learning"
 ### Autorzy:
-- Jagoda Radomska, 
-- Wiktor Trzaskowski - [@VicT0000R](https://github.com/VicT0000R), 
+- Jagoda Radomska
+- Wiktor Trzaskowski - [@VicT0000R](https://github.com/VicT0000R)
 - Szymon Urbala - [@urbull](https://github.com/urbull)
 ## O projekcie:
 Prosta strona internetowa stworzona z użyciem frameworka Flask. Jest to blog o kotkach, na którym użytkownicy mogą tworzyć konta, logować się, dodawać posty oraz je przeglądać.
