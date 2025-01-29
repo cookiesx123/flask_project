@@ -12,7 +12,7 @@ Prosta strona internetowa stworzona z użyciem frameworka Flask. Jest to blog o 
 2. Logowanie i wylogowywanie
 3. Tworzenie i wyświetlanie postów
 
-## Strukrtura projektu:
+## Struktura projektu:
 |Plik/Folder| Opis|
 |:----------|:----|
 |📁 .venv/ |Środowisko wirtualne projektu|
