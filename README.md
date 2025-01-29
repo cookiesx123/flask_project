@@ -12,17 +12,18 @@ Prosta strona internetowa stworzona z użyciem frameworka Flask. Jest to blog o 
 2. Logowanie i wylogowywanie
 3. Tworzenie i wyświetlanie postów
 
-## Strukrtura projekt:
----
-📁 .venv/ |Środowisko wirtualne projektu
-📁 db/ |Baza danych SQLite obsługiwana przez SQLAlchemy
-📁 functions/ |Dodatkowe funkcje pomocnicze
-📁 instance/ |Przechowywanie tabeli users z bazy danych
-📁 static/ |Pliki statyczne (style CSS, przesłane zdjęcia, grafiki)
-📁 templates/ |Pliki HTML (base.html, login.html, register.html itp.)
-📄 app.py |Główny plik aplikacji Flask
-📄 requirements.txt |Lista wymaganych pakietów do uruchomienia aplikacji
----
+## Strukrtura projektu:
+|Plik/Folder| Opis|
+|:----------|:----|
+|📁 .venv/ |Środowisko wirtualne projektu|
+|📁 db/ |Baza danych SQLite obsługiwana przez SQLAlchemy|
+|📁 functions/ |Dodatkowe funkcje pomocnicze|
+|📁 instance/ |Przechowywanie tabeli users z bazy danych|
+|📁 static/ |Pliki statyczne (style CSS, przesłane zdjęcia, grafiki)|
+|📁 templates/ |Pliki HTML (base.html, login.html, register.html itp.)|
+|📄 app.py |Główny plik aplikacji Flask|
+|📄 requirements.txt |Lista wymaganych pakietów do uruchomienia aplikacji|
+
 
 ## Jak uruchomić projekt:
 1. Sklonuj repozytorium:
